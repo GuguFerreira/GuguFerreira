@@ -33,5 +33,10 @@ Wireshark,
 Nmap,
 Burp Suite,
 Metasploit,
-Python / Bash
+Python / Bash,
+C
+
+📬 Contato:
+LinkedIn: https://www.linkedin.com/in/gustavo-ferreira-cordeiro-543048369/
+Email: azagustavo98@gmail.com
 
