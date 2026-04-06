@@ -32,8 +32,8 @@ Nmap,
 Burp Suite,
 Metasploit,
 Python / Bash,
-C
-C++
+C,
+C++,
 C#
 
 📬 Contato:
