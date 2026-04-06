@@ -33,6 +33,7 @@ Burp Suite,
 Metasploit,
 Python / Bash,
 C
+C++
 
 📬 Contato:
 Linkedin: https://www.linkedin.com/in/gustavo-ferreira-cordeiro-543048369/
