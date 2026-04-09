@@ -1,4 +1,4 @@
-🛡️ Portfólio de Cibersegurança.
+🛡️ Portfólio de Cibersegurança
 
 Bem-vindo ao meu repositório de estudos e projetos em Cibersegurança.
 Aqui você encontrará laboratórios práticos, análises de vulnerabilidades, automações e estudos voltados para segurança ofensiva e defensiva.
