@@ -34,6 +34,7 @@ Metasploit,
 Python / Bash,
 C,
 C++,
+Rust,
 C#
 
 📬 Contato:
