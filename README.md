@@ -107,4 +107,4 @@ Todos os testes e simulações presentes neste repositório são realizados **ex
 
 ---
 
-💡 *Este portfólio está em constante evolução conforme novos conhecimentos e projetos são desenvolvidos.*
+💡 *Este portfólio está em constante evolução conforme novos conhecimentos e projetos sendo desenvolvidos.*
